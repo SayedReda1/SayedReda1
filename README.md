@@ -23,7 +23,7 @@
 ### Machine Language Simulator
 <br>
 
-![app gif overview](voleMachine.gif)
+![app gif overview](overviews/voleMachine.gif)
 <br>
 
 **Repo 🔗:** https://github.com/SayedReda1/MachineSimulatorGui.git
@@ -33,7 +33,7 @@
 ### Competitive Programing Stress Tester
 <br>
 
-![script gif overview](stress-tester.gif)
+![script gif overview](overviews/stress-tester.gif)
 <br>
 
 **Repo 🔗:** https://github.com/SayedReda1/Competitive-Programming-Stress-Tester.git
@@ -50,14 +50,14 @@
 ## Contact Info 
 <br>
 <a href="https://www.linkedin.com/in/sayed-reda-34ba571b8/" style="margin-right: 20px;">
-    <img alt="linkedin.png" src="linkedin.png"
+    <img alt="linkedin.png" src="icons/linkedin.png"
     width="40" height="40">
 </a>
 <a href="https://twitter.com/SayedReda38" style="margin-right: 20px;">
-    <img alt="x.png" src="x.png"
+    <img alt="x.png" src="icons/x.png"
     width="40" height="40">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100019695607094">
-    <img alt="facebook.png" src="facebook.png"
+    <img alt="facebook.png" src="icons/facebook.png"
     width="40" height="40">
 </a>
