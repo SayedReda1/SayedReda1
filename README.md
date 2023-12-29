@@ -1,16 +1,63 @@
 ### Hi there 👋
+### This is Sayed Reda, Passionate Cybersecurity trainee 👩‍💻 and student @ FCAI CU 👨‍🎓
 
-<!--
-**SayedReda1/SayedReda1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who Am I ⁉
+- I'm currently a student 👨‍🎓 at Faculty of Computers and Artifitial Intelligence Cairo University. 
+- I'm also an ECPC contestent 👨‍💻 and participated in ECPC23. I've solved handreds 💯 of problems in many competitive programming platforms. 
+- I've also finished many software projects including GUI and Console projects. 
+- I'm currently training on my Cybersecurity Pentesting Career 🔐.
+<br>
+<br>
 
-Here are some ideas to get you started:
+## I Can Help With:
+1. C++ Projects
+2. Python Projects & Automations
+3. Data Structures and Algorithms
+4. Problem solving
+5. Linux OS
+6. GUI Apps with Qt
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Recent projects:
+### Machine Language Simulator
+<br>
+
+![app gif overview](voleMachine.gif)
+<br>
+
+**Repo 🔗:** https://github.com/SayedReda1/MachineSimulatorGui.git
+<br>
+<br>
+
+### Competitive Programing Stress Tester
+<br>
+
+![script gif overview](stress-tester.gif)
+<br>
+
+**Repo 🔗:** https://github.com/SayedReda1/Competitive-Programming-Stress-Tester.git
+<br>
+<br>
+
+## Problem Solving Progress:
+<br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/sayed_reda?theme=dark&font=Acme&ext=heatmap)
+<br>
+<br>
+
+## Contact Info 
+<br>
+<a href="https://www.linkedin.com/in/sayed-reda-34ba571b8/" style="margin-right: 20px;">
+    <img alt="linkedin.png" src="linkedin.png"
+    width="40" height="40">
+</a>
+<a href="https://twitter.com/SayedReda38" style="margin-right: 20px;">
+    <img alt="x.png" src="x.png"
+    width="40" height="40">
+</a>
+<a href="https://www.facebook.com/profile.php?id=100019695607094">
+    <img alt="facebook.png" src="facebook.png"
+    width="40" height="40">
+</a>
