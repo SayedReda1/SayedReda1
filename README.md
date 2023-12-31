@@ -49,15 +49,15 @@
 
 ## Contact Info 
 <br>
-<a href="https://www.linkedin.com/in/sayed-reda-34ba571b8/" style="margin-right: 20px;">
+<a href="https://www.linkedin.com/in/sayed-reda-34ba571b8/" target="_blank" style="margin-right: 100px;">
     <img alt="linkedin.png" src="icons/linkedin.png"
-    width="40" height="40">
+    width="30" height="30">
 </a>
-<a href="https://twitter.com/SayedReda38" style="margin-right: 20px;">
+<a href="https://twitter.com/SayedReda38" target="_blank" style="margin-right: 100px;">
     <img alt="x.png" src="icons/x.png"
-    width="40" height="40">
+    width="30" height="30">
 </a>
-<a href="https://www.facebook.com/profile.php?id=100019695607094">
+<a href="https://www.facebook.com/profile.php?id=100019695607094" target="_blank">
     <img alt="facebook.png" src="icons/facebook.png"
-    width="40" height="40">
+    width="30" height="30">
 </a>
