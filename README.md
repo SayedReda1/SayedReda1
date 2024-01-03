@@ -50,7 +50,7 @@
 <br>
 <br>
 
-## Problem Solving Progress:
+## Competitive Programing Stats:
 <br>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sayed_reda?theme=dark&font=Acme&ext=heatmap)
