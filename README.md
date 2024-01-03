@@ -1,5 +1,6 @@
 ### Hi there 👋
-### This is Sayed Reda, Passionate Cybersecurity trainee 👩‍💻 and student @ FCAI CU 👨‍🎓
+### I'm Sayed, Passionate Cybersecurity trainee 👩‍💻 and student @ FCAI CU 👨‍🎓
+
 <a href="https://github.com/SayedReda1">
     <img alt="Static Badge" src="https://img.shields.io/badge/-Sayed_Reda-black?style=flat-square&logo=github&logoColor=white">
 </a>
