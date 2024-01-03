@@ -2,7 +2,7 @@
 ### I'm Sayed, Passionate Cybersecurity trainee 👩‍💻 and student @ FCAI CU 👨‍🎓
 
 <a href="https://github.com/SayedReda1">
-    <img alt="Static Badge" src="https://img.shields.io/badge/-Sayed_Reda-black?style=flat-square&logo=github&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-SayedReda1-black?style=flat-square&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/sayed-reda-34ba571b8/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Sayed_Reda-blue?style=flat-square&logo=linkedin">
