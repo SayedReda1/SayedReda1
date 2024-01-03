@@ -1,5 +1,14 @@
 ### Hi there 👋
 ### This is Sayed Reda, Passionate Cybersecurity trainee 👩‍💻 and student @ FCAI CU 👨‍🎓
+<a href="https://github.com/SayedReda1">
+    <img alt="Static Badge" src="https://img.shields.io/badge/-Sayed_Reda-black?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/sayed-reda-34ba571b8/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/-Sayed_Reda-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="https://twitter.com/SayedReda38">
+    <img alt="Twitter" src="https://img.shields.io/badge/-SayedReda38-black?style=flat-square&logo=x">
+</a>
 
 ## Who Am I ⁉
 - I'm currently a student 👨‍🎓 at Faculty of Computers and Artifitial Intelligence Cairo University. 
@@ -46,18 +55,3 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sayed_reda?theme=dark&font=Acme&ext=heatmap)
 <br>
 <br>
-
-## Contact Info 
-<br>
-<a href="https://www.linkedin.com/in/sayed-reda-34ba571b8/" target="_blank" style="margin-right: 100px;">
-    <img alt="linkedin.png" src="icons/linkedin.png"
-    width="30" height="30">
-</a>
-<a href="https://twitter.com/SayedReda38" target="_blank" style="margin-right: 100px;">
-    <img alt="x.png" src="icons/x.png"
-    width="30" height="30">
-</a>
-<a href="https://www.facebook.com/profile.php?id=100019695607094" target="_blank">
-    <img alt="facebook.png" src="icons/facebook.png"
-    width="30" height="30">
-</a>
