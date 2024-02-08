@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### I'm Sayed, Passionate Cybersecurity trainee 👩‍💻 and student @ FCAI CU 👨‍🎓
 
-[![Github profile](https://img.shields.io/badge/-SayedReda1-black?style=flat-square&logo=github)](https://github.com/SayedReda1)
-[![Linkedin profile](https://img.shields.io/badge/-Sayed_Reda-blue?style=flat-square&logo=linkedin)]("https://www.linkedin.com/in/sayed-reda-34ba571b8/")
-[![X profile](https://img.shields.io/badge/-SayedReda38-black?style=flat-square&logo=x)]("https://twitter.com/SayedReda38")
+[<img src="https://img.shields.io/badge/-SayedReda1-black?style=flat&logo=github">](https://github.com/SayedReda1) 
+[<img src="https://img.shields.io/badge/-Sayed%20Reda-blue?style=flat&logo=linkedin">](https://www.linkedin.com/in/sayed-reda-34ba571b8/) 
+[<img src="https://img.shields.io/badge/-SayedReda38-black?style=flat&logo=x">](https://twitter.com/SayedReda38)
 
 
 ## Who Am I ⁉
