@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Sayed, Passionate Cybersecurity trainee 👩‍💻 and student @ FCAI CU 👨‍🎓
+### I'm Sayed, Offensive Security Learner, CTF Player, and Computer Scientist 🥷
 
 [<img src="https://img.shields.io/badge/-SayedReda1-black?style=flat&logo=github">](https://github.com/SayedReda1) 
 [<img src="https://img.shields.io/badge/-Sayed%20Reda-blue?style=flat&logo=linkedin">](https://www.linkedin.com/in/sayedreda1/) 
@@ -7,55 +7,19 @@
 
 
 ## Who Am I ⁉
-- I'm currently a student 👨‍🎓 at Faculty of Computers and Artifitial Intelligence Cairo University. 
-- I'm also an ECPC contestent 👨‍💻 and participated in ECPC23. I've solved handreds 💯 of problems in many competitive programming platforms. 
-- I've also finished many software projects including GUI and Console projects. 
-- I'm currently training on my Cybersecurity Pentesting Career 🔐.
-<br>
-<br>
+### Programer
+- Senior Student 👨‍🎓 at Faculty of Computers and Artifitial Intelligence Cairo University. 
+- ECPC contestent 👨‍💻 (ECPC23) and Solved handreds 💯 of problems in many competitive programming platforms. 
+- Performed many software projects including from low-level machine code stuff to GUI and web applications.
+### Offensive Security Learner
+- Hacked into binary exploitation learning x86_64 assembly, GDB, Pwntools, Buffer Overflow, Format Strings, Shellcode Injection, Return-Oriented Programming, Sigreturn-Oriented Programing.
+- Practiced over 60 Web Exploitation Labs on portswigger
+- Hacked CTF challenges on different platforms (e.g. pwn.college, picoctf, dreamhack, HackTheBox)
+- Played CTFs locally (AswanCTF, FDC, EG-CERT25)
 
-## I Can Help With:
-1. C++ Projects
-2. Python Projects & Automations
+## My Skills ✨
+1. OWASP Top 10
+2. Python, Bash, PHP, JavaScript, C/C++
 3. Data Structures and Algorithms
-4. Problem solving
-5. Linux OS
-6. GUI Apps with Qt
-<br>
-<br>
-
-## Recent projects:
-### Machine Language Simulator
-<br>
-
-![app gif overview](overviews/voleMachine.gif)
-<br>
-
-**Repo:**
-
-[![](https://img.shields.io/badge/-MachineSimulatorGui-4E9F3D?style=flat&logo=github&labelColor=black
-)](https://github.com/SayedReda1/MachineSimulatorGui.git)
-
-<br>
-<br>
-
-### Competitive Programing Stress Tester
-<br>
-
-![script gif overview](overviews/stress-tester.gif)
-<br>
-
-**Repo 🔗:** 
-
-[![](https://img.shields.io/badge/-Stress_Tester-1C82AD?style=flat&logo=github&labelColor=black
-)](https://github.com/SayedReda1/Competitive-Programming-Stress-Tester.git)
-
-<br>
-<br>
-
-## Competitive Programing Stats:
-<br>
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sayed_reda?theme=dark&font=Acme&ext=heatmap)
-<br>
+4. Linux
 <br>
